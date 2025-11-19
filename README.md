@@ -10,3 +10,4 @@ Morbi sagittis sagittis rhoncus. Ut dignissim velit faucibus sapien condimentum 
 Donec a semper mauris. Quisque gravida diam sit amet elit accumsan, quis sodales sapien accumsan. Sed dolor massa, tristique a porttitor interdum, vehicula sed turpis. Donec molestie, tortor ac fringilla dapibus, magna est ullamcorper ante, id accumsan leo arcu nec dui. 
 Nulla in malesuada urna, non fermentum enim. Vivamus lobortis dignissim quam et condimentum. Pellentesque posuere aliquet placerat. Suspendisse in mi lacinia, ultricies nibh ac, gravida elit. Donec dignissim ultrices eros, id elementum felis vulputate quis. Aliquam et ornare nisi. 
 Nulla vitae arcu in odio mollis ullamcorper. 
+Voici la phrase de mon exercice : La vie est belle quand ce qu'on vit a une belle expérience.
